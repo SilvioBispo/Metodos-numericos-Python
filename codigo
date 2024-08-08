@@ -6,14 +6,6 @@ num = "FFFAEDA10"
 h = int(num,16)
 hep = np.base_repr(h, base=7)
 
-print("Disciplina:Metodos Numericos Computacionais")
-
-print("Codigo da turma:925")
-
-print("Nome:Silvio Bispo Ramos")
-
-print("Matricula:2020101538")
-
 print("\nConversor de bases")
 
 print('{} em Binario:{}'.format(num, bin(h)[2:]))
